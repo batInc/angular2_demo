@@ -1,0 +1,85 @@
+#brand {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20pt;
+}
+
+#date {
+	display: flex;
+	align-items: center;
+	color: #999999;
+	margin: 14px;
+}
+
+#wrapper {
+	width: 75%;
+}
+
+#banner {
+	margin: 1%;
+}
+
+#header {
+	display: flex;
+}
+
+#weather {
+	margin: 1%;
+	display: flex;
+	align-items: center;
+}
+
+#city-name {
+	margin: 0px;
+	font-weight: bold;
+}
+
+#temperature {
+	margin-left: 1%;
+	margin-right: 5%;
+}
+
+#city {
+	width: 100%;
+}
+
+#right {
+	width: 100%;
+	display: flex;
+}
+
+#temp {
+	text-align: center;
+	font-weight: bold;
+	width: 105px;
+}
+
+#weather-icon {
+	width: 100%;
+}
+
+#w-icon {
+	width: 96px;
+}
+
+.glyphicon {
+	font-size: 18pt;
+	margin-right: 15px;
+	align-self: center;
+}
+
+.heading {
+	font-size: 18pt;
+}
+
+.panel-heading {
+	display: flex;
+}
+
+p {
+	line-height: 20pt;
+}
+
+#copyright {
+	text-align: center;
+}
